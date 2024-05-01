@@ -8,6 +8,10 @@
     "start0": "ts-node src/index.ts",
     "build": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuruddhhit07/testnpm.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
